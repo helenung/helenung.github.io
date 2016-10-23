@@ -1,0 +1,49 @@
+@font-face {
+	font-family: 'Lobster';
+	src: url("fonts/Lobster_1.3.otf"); 
+}
+
+a {
+	color: #2162a6;
+}
+
+#author {
+	font-size: 30pt;
+}
+
+#author, #names  {
+	font-family: "Lobster";
+}
+
+#bio {
+	font-size: 15pt;
+	padding-left: 15px;
+}
+
+.buttons {
+	margin-left: 10px;
+	margin-bottom: 15px;
+}
+
+.projTitle {
+	color: #2162a6;
+	font-family: "Lobster";
+	font-size: 1.5em;
+	padding: 7px;
+	border-radius: 3px;
+	
+}
+
+.nav-link {
+	color: #474747;
+}
+
+.screenshot {
+	border-radius: 50%;
+	max-width: 30vw;
+}
+
+.self {
+	float: right;
+	max-width: 25vw;
+}
